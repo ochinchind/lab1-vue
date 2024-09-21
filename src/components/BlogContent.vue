@@ -3,15 +3,15 @@
     <div class="container">
         <div class="blog-content-posts">
             <div class="blog-content-posts-post-area">
-                <BlogContentPost image="https://hips.hearstapps.com/ghk.h-cdn.co/assets/16/08/gettyimages-179494696.jpg?crop=1.00xw:0.667xh;0,0.159xh&resize=980:*" title="The AI removes objects magically moving from video" date="July 19, 2019" height="300"/>
-                <BlogContentPost image="https://hips.hearstapps.com/ghk.h-cdn.co/assets/16/08/gettyimages-179494696.jpg?crop=1.00xw:0.667xh;0,0.159xh&resize=980:*" title="The AI removes objects magically moving from video" date="July 19, 2019" height="300"/>
+                <BlogContentPost image="'https://physicsworld.com/wp-content/uploads/2018/03/rexfeatures_2048826b-web.jpg'" title="The AI removes objects magically moving from video" date="July 19, 2019" height="300"/>
+                <BlogContentPost image="'https://physicsworld.com/wp-content/uploads/2018/03/rexfeatures_2048826b-web.jpg'" title="The AI removes objects magically moving from video" date="July 19, 2019" height="300" />
             </div>
             <div class="blog-content-posts-post-area">
-                <BlogContentPost image="https://hips.hearstapps.com/ghk.h-cdn.co/assets/16/08/gettyimages-179494696.jpg?crop=1.00xw:0.667xh;0,0.159xh&resize=980:*" title="The AI removes objects magically moving from video" date="July 19, 2019" />
+                <BlogContentPost image="'https://physicsworld.com/wp-content/uploads/2018/03/rexfeatures_2048826b-web.jpg'" title="The AI removes objects magically moving from video" date="July 19, 2019" tags="true" />
             </div>
             <div class="blog-content-posts-post-area">
-                <BlogContentPost image="https://hips.hearstapps.com/ghk.h-cdn.co/assets/16/08/gettyimages-179494696.jpg?crop=1.00xw:0.667xh;0,0.159xh&resize=980:*" title="The AI removes objects magically moving from video" date="July 19, 2019" height="300"/>
-                <BlogContentPost image="https://hips.hearstapps.com/ghk.h-cdn.co/assets/16/08/gettyimages-179494696.jpg?crop=1.00xw:0.667xh;0,0.159xh&resize=980:*" title="The AI removes objects magically moving from video" date="July 19, 2019" height="300"/>
+                <BlogContentPost image="'https://physicsworld.com/wp-content/uploads/2018/03/rexfeatures_2048826b-web.jpg'" title="The AI removes objects magically moving from video" date="July 19, 2019" height="300"/>
+                <BlogContentPost image="'https://physicsworld.com/wp-content/uploads/2018/03/rexfeatures_2048826b-web.jpg'" title="The AI removes objects magically moving from video" date="July 19, 2019" height="300"/>
             </div>
         </div>
     </div>
